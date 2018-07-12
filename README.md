@@ -1,6 +1,8 @@
 # hierarchical-3dtiles-builder
 Tool for building hierarchical 3D tiles
 
+# `THIS PROJECT IS STILL IN PROGRESS`
+
 ## Core Features
 
 - Converting multiple 3d models into one or more 3D tilesets
